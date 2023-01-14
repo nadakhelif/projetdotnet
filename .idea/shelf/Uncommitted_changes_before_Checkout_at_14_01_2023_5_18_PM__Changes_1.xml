@@ -1,0 +1,54 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_14_01_2023_5_18_PM_[Changes]1" date="1673713137430" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_01_2023_5_18_PM_[Changes]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 14/01/2023 5:18 PM [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="projet_dotnet/.vs/projet_dotnet/v17/.suo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_01_2023_5_18_PM_[Changes]1/.suo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="projet_dotnet/bin/Debug/net6.0/projet_dotnet.dll" />
+    <option name="AFTER_PATH" value="projet_dotnet/bin/Debug/net6.0/projet_dotnet.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_01_2023_5_18_PM_[Changes]1/projet_dotnet.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="projet_dotnet/obj/Debug/net6.0/projet_dotnet.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="projet_dotnet/obj/Debug/net6.0/projet_dotnet.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_01_2023_5_18_PM_[Changes]1/projet_dotnet.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="projet_dotnet/obj/Release/net6.0/projet_dotnet.assets.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_01_2023_5_18_PM_[Changes]1/projet_dotnet.assets.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".vs/ProjectEvaluation/projet_dotnet.metadata.v5.2" />
+    <option name="AFTER_PATH" value=".vs/ProjectEvaluation/projet_dotnet.metadata.v5.2" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_01_2023_5_18_PM_[Changes]1/projet_dotnet.metadata.v5.2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="projet_dotnet/book.db" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_01_2023_5_18_PM_[Changes]1/book.db" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="projet_dotnet/obj/Debug/net6.0/projet_dotnet.pdb" />
+    <option name="AFTER_PATH" value="projet_dotnet/obj/Debug/net6.0/projet_dotnet.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_01_2023_5_18_PM_[Changes]1/projet_dotnet.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".vs/projet_dotnet/v17/.futdcache.v2" />
+    <option name="AFTER_PATH" value=".vs/projet_dotnet/v17/.futdcache.v2" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_01_2023_5_18_PM_[Changes]1/.futdcache.v2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".vs/projet_dotnet/DesignTimeBuild/.dtbcache.v2" />
+    <option name="AFTER_PATH" value=".vs/projet_dotnet/DesignTimeBuild/.dtbcache.v2" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_01_2023_5_18_PM_[Changes]1/.dtbcache.v2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".vs/ProjectEvaluation/projet_dotnet.projects.v5.2" />
+    <option name="AFTER_PATH" value=".vs/ProjectEvaluation/projet_dotnet.projects.v5.2" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_01_2023_5_18_PM_[Changes]1/projet_dotnet.projects.v5.2" />
+  </binary>
+</changelist>
