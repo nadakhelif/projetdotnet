@@ -7,5 +7,8 @@ namespace projet_dotnet.Models
         [Key]
         public int book_id { get; set; }
         public string book_title { get; set; }
+
+        public string matiere { get; set; }
+        public string author { get; set; }
     }
 }

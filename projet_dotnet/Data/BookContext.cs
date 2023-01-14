@@ -7,6 +7,7 @@ namespace projet_dotnet.Data
     {
         static private BookContext bookContextInstance = null;
         public DbSet<Book>? Book { get; set; }
+        public DbSet<User>? User { get; set; }  
         public BookContext(DbContextOptions o) : base(o) { }
         public static BookContext Instantiate_Book_Context()
         {
@@ -14,7 +15,7 @@ namespace projet_dotnet.Data
             {
 
                 var optionsBuilder = new DbContextOptionsBuilder<BookContext>();
-                optionsBuilder.UseSqlite(@"Data Source=C:\Users\Nada\source\repos\projet_dotnet\projet_dotnet\test.db");
+                    optionsBuilder.UseSqlite(@"Data Source=C:\Users\21697\source\repos\projetdotnet\projet_dotnet\biblio.db");
                 bookContextInstance = new BookContext(optionsBuilder.Options);
                 Debug.WriteLine("instance created for the first time");
                 return bookContextInstance;
