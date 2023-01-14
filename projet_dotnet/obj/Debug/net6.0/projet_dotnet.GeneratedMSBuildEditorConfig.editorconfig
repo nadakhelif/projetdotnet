@@ -16,6 +16,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Nada\source\repos\projet_dotnet\projet_dotnet
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Nada/source/repos/projet_dotnet/projet_dotnet/Views/Book/ByMatiere.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xCeU1hdGllcmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nada/source/repos/projet_dotnet/projet_dotnet/Views/Book/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nada/source/repos/projet_dotnet/projet_dotnet/Views/Book/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Nada/source/repos/projet_dotnet/projet_dotnet/Views/Book/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

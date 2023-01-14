@@ -14,7 +14,7 @@ namespace projet_dotnet.Data
             {
 
                 var optionsBuilder = new DbContextOptionsBuilder<BookContext>();
-                optionsBuilder.UseSqlite(@"Data Source=C:\Users\Nada\source\repos\projet_dotnet\projet_dotnet\test.db");
+                optionsBuilder.UseSqlite(@"Data Source=C:\Users\Nada\source\repos\projet_dotnet\projet_dotnet\book.db");
                 bookContextInstance = new BookContext(optionsBuilder.Options);
                 Debug.WriteLine("instance created for the first time");
                 return bookContextInstance;

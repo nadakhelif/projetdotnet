@@ -19,8 +19,10 @@ else{
    @foreach (Book @s in @l){
         <div class="card" style="width: 20rem;">
             <div class="card-body">
-                <h5 class="card-title"> @s.book_id) @s.book_title</h5>
-               
+                <h5 class="card-title"> @s.book_id) @s.book_title @s.matiere</h5>
+
+                 <a href="/book/details?id=@s.book_id" class="btn btn-primary btn-lg"> details @s.book_title</a>
+                 <a href="/book/create" class="btn btn-primary btn-lg"> create </a>
 
             </div>
 
