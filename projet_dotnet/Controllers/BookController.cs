@@ -16,6 +16,7 @@ namespace projet_dotnet.Controllers
             ViewData["booksList"] = books;
             return View();
         }
+        [HttpGet]
         public IActionResult ByMatiere(string matiere)
         {
             
@@ -57,6 +58,13 @@ namespace projet_dotnet.Controllers
             Book book = bookContext.Book.Find(id);
             ViewData["book"] = book;
             return View();
+        }
+        public IActionResult Delete(int id)
+        {
+            BookContext bookContext = BookContext.Instantiate_Book_Context();
+            BookRepository bookRepository = new BookRepository(bookContext);
+            bookRepository.Delete(id);
+            return RedirectToAction("Index");
         }
 
     }

@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb10411a-a5a7-4ace-8a29-63b1bbe72bbc" name="Changes" comment="configuration files (just to be able to merge)">
+    <list default="true" id="fb10411a-a5a7-4ace-8a29-63b1bbe72bbc" name="Changes" comment="book">
+      <change afterPath="$PROJECT_DIR$/.vs/projet_dotnet/FileContentIndex/5b66aace-f184-47a9-9a21-12fc3705ce11.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/projet_dotnet/FileContentIndex/9c850ecb-808e-451a-ad5d-d983b3a17747.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/projet_dotnet/FileContentIndex/fe53cf14-7286-4370-abb5-ae3d3014c477.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_dotnet/Views/Book/ByMatiere.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_dotnet/Views/Book/Create.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_dotnet/Views/Book/Details.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_dotnet/wwwroot/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_dotnet/wwwroot/assets/img/bg-masthead.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_dotnet/wwwroot/assets/img/portfolio/fullsize/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_dotnet/wwwroot/assets/img/portfolio/fullsize/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_dotnet/wwwroot/assets/img/portfolio/fullsize/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_dotnet/wwwroot/assets/img/portfolio/fullsize/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_dotnet/wwwroot/assets/img/portfolio/fullsize/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_dotnet/wwwroot/assets/img/portfolio/fullsize/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_dotnet/wwwroot/assets/img/portfolio/thumbnails/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_dotnet/wwwroot/assets/img/portfolio/thumbnails/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_dotnet/wwwroot/assets/img/portfolio/thumbnails/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_dotnet/wwwroot/assets/img/portfolio/thumbnails/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_dotnet/wwwroot/assets/img/portfolio/thumbnails/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_dotnet/wwwroot/assets/img/portfolio/thumbnails/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_dotnet/wwwroot/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_dotnet/wwwroot/js/scripts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_01_2023_5_18_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_01_2023_5_18_PM__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_01_2023_5_18_PM__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_01_2023_5_18_PM__Changes_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/projet_dotnet/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/projet_dotnet/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/projet_dotnet/FileContentIndex/7bedc220-0ef8-4986-a3ae-043b175edfea.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/projet_dotnet/FileContentIndex/8a6db966-ff14-420f-9379-452926cc086f.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/projet_dotnet/FileContentIndex/c8562d19-b469-46c2-bf19-a2678849f74a.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/projet_dotnet/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/projet_dotnet/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/Controllers/BookController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/Controllers/BookController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/Data/BookContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/Data/BookContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/Views/Book/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/Views/Book/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/Views/Home/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/biblio.db" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/biblio.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/bin/Debug/net6.0/projet_dotnet.dll" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/bin/Debug/net6.0/projet_dotnet.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/bin/Debug/net6.0/projet_dotnet.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/bin/Debug/net6.0/projet_dotnet.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/bin/Debug/net6.0/projet_dotnet.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/bin/Debug/net6.0/projet_dotnet.staticwebassets.runtime.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/project.razor.vs.json" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/project.razor.vs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.dll" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/ref/projet_dotnet.dll" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/ref/projet_dotnet.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/refint/projet_dotnet.dll" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/refint/projet_dotnet.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/staticwebassets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/staticwebassets.development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/staticwebassets.pack.json" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/staticwebassets.pack.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/staticwebassets/msbuild.projet_dotnet.Microsoft.AspNetCore.StaticWebAssets.props" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/staticwebassets/msbuild.projet_dotnet.Microsoft.AspNetCore.StaticWebAssets.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/projet_dotnet.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/projet_dotnet.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/projet_dotnet.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/projet_dotnet.csproj.nuget.g.props" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,15 +84,6 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  }
-}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -77,6 +122,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
