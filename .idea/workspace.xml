@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f71361c0-adc5-4b2d-9ff0-39feba4a2e81" name="Changes" comment="Authentication &#10;&#10;&#10;Add unit of work&#10;Add login, register &#10;Change layout to configure access to route" />
+    <list default="true" id="f71361c0-adc5-4b2d-9ff0-39feba4a2e81" name="Changes" comment="zz" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,16 +29,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/MSI/Desktop/gl/GL3/SEM1/chaima/projetdotnet",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MSI/Desktop/gl/GL3/SEM1/chaima/projetdotnet&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,6 +51,8 @@
       <workItem from="1673712902828" duration="270000" />
       <workItem from="1673740518860" duration="797000" />
       <workItem from="1673752086245" duration="152000" />
+      <workItem from="1673752251663" duration="291000" />
+      <workItem from="1673768963803" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="Change user model, user repo">
       <created>1673740633612</created>
@@ -73,7 +75,28 @@
       <option name="project" value="LOCAL" />
       <updated>1673752196888</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="zz">
+      <created>1673752305652</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673752305652</updated>
+    </task>
+    <task id="LOCAL-00005" summary="zz">
+      <created>1673752438707</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673752438707</updated>
+    </task>
+    <task id="LOCAL-00006" summary="zz">
+      <created>1673768967947</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673768967947</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,7 +113,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="Firas" />
                       </list>
                     </value>
                   </entry>
@@ -106,6 +129,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Change user model, user repo" />
     <MESSAGE value="Authentication &#10;&#10;&#10;Add unit of work&#10;Add login, register &#10;Change layout to configure access to route" />
-    <option name="LAST_COMMIT_MESSAGE" value="Authentication &#10;&#10;&#10;Add unit of work&#10;Add login, register &#10;Change layout to configure access to route" />
+    <MESSAGE value="zz" />
+    <option name="LAST_COMMIT_MESSAGE" value="zz" />
   </component>
 </project>
