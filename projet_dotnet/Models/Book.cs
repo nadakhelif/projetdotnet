@@ -10,5 +10,6 @@ namespace projet_dotnet.Models
 
         public string matiere { get; set; }
         public string author { get; set; }
+        public virtual ICollection<BookUser> BookUsers { get; set; }
     }
 }
