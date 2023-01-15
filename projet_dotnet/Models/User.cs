@@ -12,6 +12,15 @@
             this.Filiere = Filiere;
             this.Niveau = Niveau;
         }
+        public User(int id, string lastName, string firstName, string email, string password)
+        {
+            Id = id;
+            FirstName = firstName;
+            LastName = lastName;
+            Email = email;
+            Password = password;
+        }
+
         public static int id_generator = 100;
         public int Id { get; set; }
         public string FirstName { get; set; }
