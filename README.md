@@ -4,4 +4,6 @@ Hello we are nada chaima firas and this is our project for a virtual library :
 we realized the crud and a search bar for the books :
 ![image](https://user-images.githubusercontent.com/92679701/212529140-b440d62a-56ed-4fea-bd80-7924d478ff7e.png)
 
-we also created the crud for the users and the authentification /login/logout 
+This is how to register as a new user :
+![Register](https://user-images.githubusercontent.com/94303698/212529730-f20caf62-c78c-4792-a523-2abe4a136b32.png)
+
