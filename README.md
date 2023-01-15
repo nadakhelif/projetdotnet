@@ -7,4 +7,11 @@ Hello we are nada chaima firas and this is our project for a virtual library :
 we realized the crud and a search bar for the books :
 ![image](https://user-images.githubusercontent.com/92679701/212529140-b440d62a-56ed-4fea-bd80-7924d478ff7e.png)
 
+Login Page:
+![image](https://user-images.githubusercontent.com/75532032/212529789-e894a34f-4499-421e-9a30-7fa012be3f99.png)
+
+Registration Page:
+![image](https://user-images.githubusercontent.com/75532032/212529814-25816ba3-87df-4c15-9855-3e7327aee889.png)
+
+
 we also created the crud for the users and the authentification /login/logout 
