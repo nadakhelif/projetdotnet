@@ -1,4 +1,5 @@
-﻿using projet_dotnet.Models;
+﻿using Microsoft.AspNetCore.Mvc;
+using projet_dotnet.Models;
 
 namespace projet_dotnet.Data
 {
@@ -61,5 +62,6 @@ namespace projet_dotnet.Data
             _context.Book.Remove(book);
             _context.SaveChanges();
         }
+        
     }
 }

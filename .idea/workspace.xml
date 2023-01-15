@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb10411a-a5a7-4ace-8a29-63b1bbe72bbc" name="Changes" comment="configuration files (just to be able to merge)">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_01_2023_5_18_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_01_2023_5_18_PM__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_01_2023_5_18_PM__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_14_01_2023_5_18_PM__Changes_1.xml" afterDir="false" />
+    <list default="true" id="fb10411a-a5a7-4ace-8a29-63b1bbe72bbc" name="Changes" comment="book yeey">
+      <change afterPath="$PROJECT_DIR$/.vs/projet_dotnet/FileContentIndex/747d7451-2394-4d2c-b5f5-50a5deb72369.vsidx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/projet_dotnet/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/projet_dotnet/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/bin/Debug/net6.0/projet_dotnet.dll" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/bin/Debug/net6.0/projet_dotnet.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/bin/Debug/net6.0/projet_dotnet.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/bin/Debug/net6.0/projet_dotnet.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.dll" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,15 +34,6 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  }
-}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,6 +45,28 @@
       <workItem from="1673699554124" duration="926000" />
       <workItem from="1673712902828" duration="270000" />
     </task>
+    <task id="LOCAL-00001" summary="book crud and views finished">
+      <created>1673735202038</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673735202038</updated>
+    </task>
+    <task id="LOCAL-00002" summary="book crud and views finished">
+      <created>1673737450340</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673737450340</updated>
+    </task>
+    <task id="LOCAL-00003" summary="book yeey">
+      <created>1673741775429</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673741775429</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,8 +94,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="book crud and views finished" />
+    <MESSAGE value="book yeey" />
+    <option name="LAST_COMMIT_MESSAGE" value="book yeey" />
   </component>
 </project>
