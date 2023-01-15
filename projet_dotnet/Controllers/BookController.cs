@@ -33,13 +33,12 @@ namespace projet_dotnet.Controllers
         {
             try
             {
-                if (ModelState.IsValid)
-                {
+               
                     BookContext bookContext = BookContext.Instantiate_Book_Context();
                     BookRepository bookRepository = new BookRepository(bookContext);
                     bookRepository.Add(book);
                     return RedirectToAction("Index");
-                }
+                
             }
             catch (DataException /* dex */)
             {
@@ -67,7 +66,7 @@ namespace projet_dotnet.Controllers
             bookRepository.Delete(id);
             return RedirectToAction("Index");
         }
-        public async Task<IActionResult> AddBookToUser(int bookId, int Id)
+        /*public async Task<IActionResult> AddBookToUser(int bookId, int Id)
         {
             BookContext _context = BookContext.Instantiate_Book_Context();
 
@@ -82,7 +81,7 @@ namespace projet_dotnet.Controllers
             Console.WriteLine("After SaveChangesAsync count of BookUsers in context : " + _context.BookUser.Count());
 
             return RedirectToAction("Index", "Books");
-        }
+        }*/
 
 
     }
