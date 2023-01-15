@@ -1183,19 +1183,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MSI\\.nuget\\packages\\": {}
+    "C:\\Users\\21697\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI\\Desktop\\gl\\GL3\\SEM1\\chaima\\projetdotnet\\projet_dotnet\\projet_dotnet.csproj",
+      "projectUniqueName": "C:\\Users\\21697\\source\\repos\\projetdotnet\\projet_dotnet\\projet_dotnet.csproj",
       "projectName": "projet_dotnet",
-      "projectPath": "C:\\Users\\MSI\\Desktop\\gl\\GL3\\SEM1\\chaima\\projetdotnet\\projet_dotnet\\projet_dotnet.csproj",
-      "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI\\Desktop\\gl\\GL3\\SEM1\\chaima\\projetdotnet\\projet_dotnet\\obj\\",
+      "projectPath": "C:\\Users\\21697\\source\\repos\\projetdotnet\\projet_dotnet\\projet_dotnet.csproj",
+      "packagesPath": "C:\\Users\\21697\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\21697\\source\\repos\\projetdotnet\\projet_dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\21697\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
