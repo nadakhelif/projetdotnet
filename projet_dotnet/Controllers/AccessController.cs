@@ -46,5 +46,16 @@ namespace projet_dotnet.Controllers
             unitOfWork.Save();
             return View("RegisterCompleted");
         }
+        public IActionResult UpdateUser()
+        {
+
+            if (UserRepository.currentUser == null)
+            {
+                TempData["Error"] = "You're not logged in!";
+            }
+            else
+                ViewData["currentUser"] = UserRepository.currentUser;
+            return View();
+        }
     }
 }
