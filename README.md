@@ -6,6 +6,10 @@ Hello we are nada chaima firas and this is our project for a virtual library :
 
 we realized the crud and a search bar for the books :
 ![image](https://user-images.githubusercontent.com/92679701/212529140-b440d62a-56ed-4fea-bd80-7924d478ff7e.png)
+and the create new book form :
+![image](https://user-images.githubusercontent.com/92679701/212530101-2e6b0a91-2a3c-4e45-ab14-9371bfb83ca4.png)
+
+
 
 This is how to register as a new user :
 ![Register](https://user-images.githubusercontent.com/94303698/212529764-2d77dfd1-8699-412d-99d7-0fc6e494d53e.png)
