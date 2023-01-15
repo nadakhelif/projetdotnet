@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb10411a-a5a7-4ace-8a29-63b1bbe72bbc" name="Changes" comment="book yeey">
-      <change afterPath="$PROJECT_DIR$/.vs/projet_dotnet/FileContentIndex/747d7451-2394-4d2c-b5f5-50a5deb72369.vsidx" afterDir="false" />
+    <list default="true" id="f71361c0-adc5-4b2d-9ff0-39feba4a2e81" name="Changes" comment="Authentication &#10;&#10;&#10;Add unit of work&#10;Add login, register &#10;Change layout to configure access to route">
+      <change afterPath="$PROJECT_DIR$/.vs/projet_dotnet/FileContentIndex/2d3f4fb4-7fd2-451c-9dcb-b4010ad2ae5a.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/projet_dotnet/FileContentIndex/6262b648-2889-4c3c-bc05-91216dd29506.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/projet_dotnet/FileContentIndex/6aaa0b55-219b-4a71-a7d6-08e53ba45777.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/projet_dotnet/FileContentIndex/eb300d40-aebc-429f-b5bd-1a2d7a813b3b.vsidx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_dotnet/Controllers/AccessController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_dotnet/Controllers/AccountController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_dotnet/Views/Access/Login.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projet_dotnet/Views/Access/Register.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/projet_dotnet/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/projet_dotnet/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/projet_dotnet/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/projet_dotnet/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/Data/UnitOfWork.cs" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/Data/UnitOfWork.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/Data/UserRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/Data/UserRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/Models/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/Models/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/biblio.db" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/biblio.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projet_dotnet/bin/Debug/net6.0/projet_dotnet.dll" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/bin/Debug/net6.0/projet_dotnet.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projet_dotnet/bin/Debug/net6.0/projet_dotnet.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/bin/Debug/net6.0/projet_dotnet.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/project.razor.vs.json" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/project.razor.vs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.dll" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/projet_dotnet.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/ref/projet_dotnet.dll" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/ref/projet_dotnet.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/refint/projet_dotnet.dll" beforeDir="false" afterPath="$PROJECT_DIR$/projet_dotnet/obj/Debug/net6.0/refint/projet_dotnet.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,39 +53,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fb10411a-a5a7-4ace-8a29-63b1bbe72bbc" name="Changes" comment="" />
+      <changelist id="f71361c0-adc5-4b2d-9ff0-39feba4a2e81" name="Changes" comment="" />
       <created>1673699551606</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673699551606</updated>
       <workItem from="1673699554124" duration="926000" />
       <workItem from="1673712902828" duration="270000" />
+      <workItem from="1673740518860" duration="797000" />
     </task>
-    <task id="LOCAL-00001" summary="book crud and views finished">
-      <created>1673735202038</created>
+    <task id="LOCAL-00001" summary="Change user model, user repo">
+      <created>1673740633612</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1673735202038</updated>
+      <updated>1673740633612</updated>
     </task>
-    <task id="LOCAL-00002" summary="book crud and views finished">
-      <created>1673737450340</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1673737450340</updated>
-    </task>
-    <task id="LOCAL-00003" summary="book yeey">
-      <created>1673741775429</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1673741775429</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,7 +98,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="chaima" />
                       </list>
                     </value>
                   </entry>
@@ -94,12 +109,11 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="book crud and views finished" />
-    <MESSAGE value="book yeey" />
-    <option name="LAST_COMMIT_MESSAGE" value="book yeey" />
+    <MESSAGE value="Change user model, user repo" />
+    <MESSAGE value="Authentication &#10;&#10;&#10;Add unit of work&#10;Add login, register &#10;Change layout to configure access to route" />
+    <option name="LAST_COMMIT_MESSAGE" value="Authentication &#10;&#10;&#10;Add unit of work&#10;Add login, register &#10;Change layout to configure access to route" />
   </component>
 </project>
