@@ -38,7 +38,8 @@ else{
                 <h5 class="card-title"> @s.book_id) @s.book_title @s.matiere</h5>
 
                         <a href="/book/details?id=@s.book_id" class="btn btn-primary"> open</a>
-                 <a  class="btn btn-warning">favorites</a>
+                        <a href="@Url.Action("AddBookToUser", "Book", new { bookId = s.book_id, userId = 1 })">Add Book to User</a>
+
                  
                   <a asp-action="Delete" asp-route-id="@s.book_id" class="btn btn-danger">Delete</a>
             </div>

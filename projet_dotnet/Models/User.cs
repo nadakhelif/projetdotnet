@@ -1,20 +1,33 @@
-﻿namespace projet_dotnet.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace projet_dotnet.Models
 {
     public class User
     {
-        public User(int id, string Name, string Email, string Password)
-        {
-            this.Id = id;
-            this.Name = Name;
-            this.Email = Email;
-            this.Password = Password;
-            
-        }
-        public static int id_generator = 100;
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string Email { get; set; }
-        public string Password { get; set; }
+        
+            public User(int id, string Filiere, int Niveau, string LastName, string FirstName, string Email, string Password)
+            {
+                this.Id = id;
+                this.FirstName = FirstName;
+                this.LastName = LastName;
+                this.Email = Email;
+                this.Password = Password;
+                this.Filiere = Filiere;
+                this.Niveau = Niveau;
 
+            }
+            public static int id_generator = 100;
+        [Key]
+        public int Id { get; set; }
+            public string FirstName { get; set; }
+            public string LastName { get; set; }
+
+            public string Email { get; set; }
+            public string Password { get; set; }
+
+            public string Filiere { get; set; }
+            public int Niveau { get; set; }
+        public virtual ICollection<BookUser> BookUsers { get; set; }
     }
+    
 }
